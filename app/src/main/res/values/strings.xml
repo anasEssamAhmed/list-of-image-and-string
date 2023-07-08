@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">unit3_list</string>
+    <string name="image1">Image number 1</string>>
+    <string name="image2">Image number 2</string>>
+    <string name="image3">Image number 3</string>>
+    <string name="image4">Image number 4</string>>
+    <string name="image5">Image number 5</string>>
+    <string name="image6">Image number 6</string>>
+    <string name="image7">Image number 7</string>>
+    <string name="image8">Image number 8</string>>
+    <string name="image9">Image number 9</string>>
+    <string name="image10">Image number 10</string>>
+</resources>
